@@ -4,6 +4,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abinashpanigrahi&show_icons=true&theme=radical)](https://github.com/abinashpanigrahi/github-readme-stats)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abinashpanigrahi&theme=radical)  
+
+![Profile views](https://gpvc.arturio.dev/abinashpanigrahi)  
+
 
 
 <!--
