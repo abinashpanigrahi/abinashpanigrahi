@@ -10,7 +10,7 @@
 
 - 📫 Reach me on **abinashp1253@gmail.com**
 
-- ⚡ For fun, **I love to watch cricket, or binge-watch some great mystery thrillers**
+- ⚡ In my leisure time, **I love to watch cricket, or binge-watch some great mystery thrillers**
 
 <!-- - 👨‍💻 All of my projects are available at [dummy.com](dummy.com) -->
 
