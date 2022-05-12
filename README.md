@@ -36,11 +36,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinashpanigrahi&show_icons=true&theme=radical&locale=en" alt="abinashpanigrahi" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinashpanigrahi&theme=radical" alt="abinashpanigrahi" /></p>
 
 <p align="center">
   <img align="center" height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinashpanigrahi&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p>
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinashpanigrahi&theme=radical" alt="abinashpanigrahi" /></p>
 
 <p align="center">
   <img  align="center"  height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api?username=abinashpanigrahi&show_icons=true&locale=en&theme=radical" />
