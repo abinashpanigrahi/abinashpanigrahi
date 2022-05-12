@@ -38,6 +38,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinashpanigrahi&theme=radical" alt="abinashpanigrahi" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinashpanigrahi&show_icons=true&locale=en&layout=compact&theme=radical" alt="abinashpanigrahi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinashpanigrahi&show_icons=true&locale=en&theme=radical" alt="abinashpanigrahi" /></p>
+
 
 <hr />
 
