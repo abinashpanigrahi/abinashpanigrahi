@@ -32,7 +32,7 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p><img align="left" width="412" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinashpanigrahi&show_icons=true&theme=radical&locale=en&layout=compact" alt="abinashpanigrahi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinashpanigrahi&show_icons=true&theme=radical&locale=en&layout=compact" alt="abinashpanigrahi" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abinashpanigrahi&show_icons=true&theme=radical&locale=en" alt="abinashpanigrahi" /></p>
 
