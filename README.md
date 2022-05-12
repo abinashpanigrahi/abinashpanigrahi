@@ -30,7 +30,7 @@
 
 <hr />
 
-<h3 align="center">Github Stats:</h3>
+<h3 align="left">Github Stats:</h3>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinashpanigrahi&show_icons=true&theme=radical&locale=en&layout=compact" alt="abinashpanigrahi" /></p>
 
