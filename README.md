@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abinashpanigrahi2601](https://medium.com/@abinashpanigrahi2601)
 
-- 📫 How to reach me **abinashp1253@gmail.com**
+- 📫 Reach me on **abinashp1253@gmail.com**
 
 - ⚡ For fun, **I love to watch cricket, or binge-watch some great mystery thrillers**
 
