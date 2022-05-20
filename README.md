@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abinash Panigrahi</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
-<p>
+<!-- <p>
 <img align="right" width="250px" height="190px" src="https://github.com/abinashpanigrahi/abinashpanigrahi/blob/main/codegif.gif?raw=true" alt="GIF" />
-</p>
+</p> -->
 
 - 💻 I’m a Full Stack Software Developer 
 
