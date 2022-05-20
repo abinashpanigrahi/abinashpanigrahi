@@ -6,7 +6,9 @@
 
 - 💻 I’m a Full Stack Software Developer 
 
-- 💬 Ask me about **Java, MySQL, Spring Boot, JavaScript**
+- 🌱 I’m currently learning **Spring Boot**
+
+- 💬 Ask me about anything, I am happy to help
 
 - 📝 I regularly write articles on [https://medium.com/@abinashpanigrahi2601](https://medium.com/@abinashpanigrahi2601)
 
