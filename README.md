@@ -16,7 +16,7 @@
 
 - ⚡ In my leisure time, **I love to watch cricket, or binge-watch some great mystery thrillers**
 
-<!-- - 👨‍💻 All of my projects are available at [dummy.com](dummy.com) -->
+- 🗺️ Want to know more? Check out my portfolio [here](https://abinashpanigrahi.github.io/) 🌐
 
 <hr />
 
