@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abinash Panigrahi</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Backend Developer from India</h3>
 <!-- <p>
 <img align="right" width="250px" height="190px" src="https://github.com/abinashpanigrahi/abinashpanigrahi/blob/main/codegif.gif?raw=true" alt="GIF" />
 </p> -->
 
-- 💻 I’m a Full Stack Software Developer 
+- 💻 I’m a Backend & Java Developer
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about anything, I am happy to help
 
-- 📝 I regularly write articles on [https://medium.com/@abinashpanigrahi2601](https://medium.com/@abinashpanigrahi2601)
-
 - 📫 Reach out to me on **abinashp1253@gmail.com**
 
 - ⚡ In my leisure time, **I love to watch cricket, or binge-watch some great mystery thrillers**
+
+- 📝 I regularly write articles on [https://medium.com/@abinashpanigrahi2601](https://medium.com/@abinashpanigrahi2601)
 
 - 🗺️ Want to know more? Check out my portfolio [here](https://abinashpanigrahi.github.io/) 🌐
 
