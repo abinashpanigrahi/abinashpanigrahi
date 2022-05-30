@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abinash Panigrahi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abinash Panigrahi</h1>
 <h3 align="center">A Passionate Backend Developer from India</h3>
 <!-- <p>
 <img align="right" width="250px" height="190px" src="https://github.com/abinashpanigrahi/abinashpanigrahi/blob/main/codegif.gif?raw=true" alt="GIF" />
 </p> -->
+
+<img align='right' src="https://i.pinimg.com/564x/b8/39/0f/b8390f69ce0fcae2f09e63d3c96c35d1.jpg" width="280" height='230'>
+
 
 - 💻 I’m a Backend & Java Developer
 
@@ -14,7 +17,7 @@
 
 - ⚡ In my leisure time, **I love to watch cricket, or binge-watch some great mystery thrillers**
 
-- 📝 I regularly write articles on [https://medium.com/@abinashpanigrahi2601](https://medium.com/@abinashpanigrahi2601)
+<!-- - 📝 I regularly write articles on [https://medium.com/@abinashpanigrahi2601](https://medium.com/@abinashpanigrahi2601) -->
 
 - 🗺️ Want to know more? Check out my portfolio [here](https://abinashpanigrahi.github.io/) 🌐
 
