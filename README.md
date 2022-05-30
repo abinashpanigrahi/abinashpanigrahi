@@ -1,8 +1,14 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abinash Panigrahi</h1>
-<h3 align="center">A Passionate Backend Developer from India</h3>
+<!-- <h3 align="center">A Passionate Backend Developer from India</h3> -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=12F782&width=650&height=80&lines=Backend+%26+Java+Developer+;Passionate+to+develop+scalable+products+;Always+learning+new+things;&center=true&width=640&height=45&vCenter=true&size=28" />
+</p>
+
 <!-- <p>
 <img align="right" width="250px" height="190px" src="https://github.com/abinashpanigrahi/abinashpanigrahi/blob/main/codegif.gif?raw=true" alt="GIF" />
 </p> -->
+
 
 <img align='right' src="https://i.pinimg.com/564x/b8/39/0f/b8390f69ce0fcae2f09e63d3c96c35d1.jpg" width="280" height='230'>
 
