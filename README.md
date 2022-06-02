@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abinash Panigrahi, from Sambalpur, Odisha, IN</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abinash Panigrahi</h1>
 <!-- <h3 align="center">A Passionate Backend Developer from India</h3> -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=12F782&width=650&height=80&lines=Backend+%26+Java+Developer+;Passionate+to+develop+scalable+products+;Always+learning+new+things;&center=true&width=640&height=45&vCenter=true&size=28" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=12F782&width=650&height=80&lines=Developer+from+Sambalpur,+Odisha+(India);Backend+%26+Java+Developer+;Passionate+to+develop+scalable+products+;Always+learning+new+things;&center=true&width=640&height=45&vCenter=true&size=28" />
 </p>
 
 <!-- <p>
