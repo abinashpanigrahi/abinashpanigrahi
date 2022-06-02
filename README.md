@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abinash Panigrahi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abinash Panigrahi, from Sambalpur, Odisha, IN</h1>
 <!-- <h3 align="center">A Passionate Backend Developer from India</h3> -->
 
 <p align="center">
